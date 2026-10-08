@@ -1,5 +1,6 @@
 ### Hi, I'm Reynold
 
-Contributing to the [opencode](https://github.com/anomalyco/opencode) ecosystem:
+Contributing to:
 
-- [models.dev](https://github.com/anomalyco/models.dev) - added the [Baidu Qianfan provider](https://github.com/anomalyco/models.dev/pull/9141) (ERNIE 5.0 and ERNIE 5.0 Thinking Preview)
+- [opencode](https://github.com/anomalyco/opencode) - open-source AI coding agent
+- [photocraft](https://github.com/storytold/photocraft) - clean-room, pure-Rust reimplementation of Adobe Photoshop
